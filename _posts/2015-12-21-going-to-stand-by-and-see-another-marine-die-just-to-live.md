@@ -2,7 +2,7 @@
 layout: post
 title: Going to stand by and see another Marine die just to live
 author: ahmad
-tags: [frontpage, jekyll, blog]
+tags: frontpage jekyll blog
 image: '/images/posts/12.jpg'
 ---
 

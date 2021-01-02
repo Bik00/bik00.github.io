@@ -2,7 +2,7 @@
 layout: post
 title: The senate that our ability to use the force has diminished
 author: ahmad
-tags: [frontpage, jekyll, blog]
+tags: frontpage jekyll blog
 image: '/images/posts/16.jpg'
 ---
 

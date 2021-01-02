@@ -2,7 +2,7 @@
 layout: post
 title: I know cats who'd take out whole zipcodes for that kind of cheese
 author: john
-tags: [frontpage, jekyll, blog]
+tags: frontpage jekyll blog
 image: '/images/posts/22.jpg'
 ---
 

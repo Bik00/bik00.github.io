@@ -2,7 +2,7 @@
 layout: post
 title: If you have an opportunity to use your voice you should use it all
 author: ahmad
-tags: [frontpage, jekyll, blog]
+tags: frontpage jekyll blog
 image: '/images/posts/8.jpg'
 ---
 

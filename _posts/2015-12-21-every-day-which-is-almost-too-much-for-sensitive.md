@@ -2,7 +2,7 @@
 layout: post
 title: Every day, which is almost too much for sensitive
 author: ahmad
-tags: [frontpage, jekyll, blog]
+tags: frontpage jekyll blog
 image: '/images/posts/13.jpg'
 ---
 

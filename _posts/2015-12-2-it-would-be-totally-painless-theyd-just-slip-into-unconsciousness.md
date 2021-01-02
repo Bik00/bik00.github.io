@@ -2,7 +2,7 @@
 layout: post
 title: It would be totally painless - they'd just slip into unconsciousness
 author: ahmad
-tags: [frontpage, jekyll, blog]
+tags: frontpage jekyll blog
 image: '/images/posts/2.jpg'
 ---
 

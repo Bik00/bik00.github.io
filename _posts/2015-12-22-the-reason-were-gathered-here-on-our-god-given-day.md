@@ -2,7 +2,7 @@
 layout: post
 title: The reason we're gathered here on our God-given day
 author: ahmad
-tags: [frontpage, jekyll, blog]
+tags: frontpage jekyll blog
 image: '/images/posts/19.jpg'
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Almost too much for sensitive to get paid all day, every day
 author: ahmad
-tags: [frontpage, jekyll, blog]
+tags: frontpage jekyll blog
 image: '/images/posts/18.jpg'
 ---
 

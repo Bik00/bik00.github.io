@@ -2,7 +2,7 @@
 layout: post
 title: Access main program. Access main security
 author: ahmad
-tags: [frontpage, jekyll, blog]
+tags: frontpage jekyll blog
 image: '/images/posts/5.jpg'
 ---
 
