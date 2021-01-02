@@ -8,9 +8,9 @@
 theme_version: 1.0.5
 
 # Site settings
-title:              Nubia
+title:              Bikoo's world 
 logo:               # Logo image URL
-description:        Thoughts, Stories and Ideas
+description:        Say, Dream, Enjoy, Me
 baseurl:            '' # The subpath of your site, e.g. /blog
 url:                'https://bik00.github.io' # The base hostname & protocol for your site
 twitter:            https://twitter.com/aspirethemes
