@@ -50,10 +50,10 @@ defaults:
 # Authors
 authors:
   ahmad:
-    name:     Ahmad Ajmi
-    bio:      Author & developer of Aspire Themes. Minimalist. I love creating clean and minimal websites.Technical writer at SitePoint.
-    gravatar: https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
-    email:    info@aspirethemes.com
-    website:  http://aspirethemes.com
-    github:   https://github.com/aspirethemes
-    twitter:  https://twitter.com/aspirethemes
+    name:     Bonil Koo
+    bio:      행복은 내안에 존재한다고 믿는 초보 개발자. 인생의 이야기를 만들어 나가는 Creator as Devloper. 
+    gravatar: # 블로그 프로필 사진? 링그를 건다.
+    email:    bikoo3002@naver.com
+    website:  https://bik00.github.io
+    github:   https://github.com/Bik00
+    twitter:  # 트위터 주소
