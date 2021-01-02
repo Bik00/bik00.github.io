@@ -11,7 +11,7 @@ theme_version: 1.0.5
 title:              Bikoo's world 
 logo:               # Logo image URL
 description:        Say, Dream, Enjoy, Me
-baseurl:            'https://bik00.github.io' # The subpath of your site, e.g. /blog
+baseurl:            '' # The subpath of your site, e.g. /blog
 url:                'https://bik00.github.io' # The base hostname & protocol for your site
 twitter:            https://twitter.com/aspirethemes
 facebook:           https://www.facebook.com/aspirethemes
