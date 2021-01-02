@@ -49,10 +49,10 @@ defaults:
 
 # Authors
 authors:
-  ahmad:
+  Bikoo:
     name:     Bonil Koo
     bio:      행복은 내안에 존재한다고 믿는 초보 개발자. 인생의 이야기를 만들어 나가는 Creator as Devloper. 
-    gravatar: # 블로그 프로필 사진? 링그를 건다.
+    gravatar: # 블로그 프로필 사진? 링크를 건다.
     email:    bikoo3002@naver.com
     website:  https://bik00.github.io
     github:   https://github.com/Bik00

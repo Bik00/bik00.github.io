@@ -2,7 +2,6 @@
   <a href='{{ site.baseurl }}/' class='c-nav__link'>Home</a>
 </li>
 
-<!--
 {% for page in site.pages %}
   {% unless page.name == '404.md' %}
     {% if page.title %}
@@ -11,11 +10,4 @@
       </li>
     {% endif %}
   {% endunless %}
-{% endfor %}
--->
-
-{% for tag in site.tags %}
-  <li class='c-nav__item'>
-    <a href='{{ site.baseurl }}/tag/{{ tag[0] }}' class='c-nav__link'>{{ tag[0] }}</a>
-  </li>
 {% endfor %}
