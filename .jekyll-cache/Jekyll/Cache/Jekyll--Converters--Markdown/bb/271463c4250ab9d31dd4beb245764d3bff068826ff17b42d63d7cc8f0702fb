@@ -1,6 +1,8 @@
-I"�<blockquote>
+I"!<blockquote>
   <p>목표 : 자바 소스 파일(.java)을 JVM으로 실행하는 과정 이해하기.</p>
 </blockquote>
+
+<hr />
 
 <h3 id="학습할-것">학습할 것</h3>
 
@@ -14,7 +16,11 @@
   <li>JDK와 JRE의 차이</li>
 </ol>
 
+<hr />
+
 <blockquote>
-  <p>작성 중입니다.</p>
+  <ol>
+    <li>JVM이란 무엇인가?</li>
+  </ol>
 </blockquote>
 :ET

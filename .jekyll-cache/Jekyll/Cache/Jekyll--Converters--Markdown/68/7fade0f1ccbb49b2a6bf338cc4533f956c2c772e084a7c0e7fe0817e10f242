@@ -1,8 +1,10 @@
-I" <blockquote>
+I"�<blockquote>
   <p>목표 : 자바 소스 파일(.java)을 JVM으로 실행하는 과정 이해하기.</p>
 </blockquote>
 
-<h2 id="학습할-것">학습할 것</h2>
+<hr />
+
+<h3 id="학습할-것">학습할 것</h3>
 
 <ol>
   <li>JVM이란 무엇인가</li>
@@ -14,9 +16,13 @@
   <li>JDK와 JRE의 차이</li>
 </ol>
 
-<h2 id="작성-중">작성 중</h2>
+<hr />
 
 <blockquote>
-  <p>작성 중입니다.</p>
+  <ol>
+    <li>JVM이란 무엇인가?</li>
+  </ol>
 </blockquote>
+
+<p>JVM이란, ‘Java Virtual Machine’ 의 약자로써, ‘자바 가상 머신’ 이라는 뜻을 가지고 있다.</p>
 :ET
